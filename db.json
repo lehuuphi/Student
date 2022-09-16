@@ -1,0 +1,18 @@
+{
+  "students": [
+    {
+      "id": 2,
+      "name": " mai anh",
+      "brithday": " 03/07/2001",
+      "email": "lehuuphi@gmail.com",
+      "phone": "03254684552"
+    },
+    {
+      "name": "lê hữu phi",
+      "brithday": "03/07/2001",
+      "email": "lehuuphi0@gmail.com",
+      "phone": "0353468441",
+      "id": 3
+    }
+  ]
+}
